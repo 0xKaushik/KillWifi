@@ -1,4 +1,4 @@
-# Killwifi ☣️
+# Killwifii ☣️
 
 Welcome to **Killwifi**, the ultimate Wi-Fi deauth script that's as savage as it sounds. Whether you're a network security pro or just curious about Wi-Fi networks, this tool has got you covered.
 
